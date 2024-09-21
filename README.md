@@ -1,6 +1,5 @@
-![DOME](dome_logo.png)
+# Designing a National Blockchain Network
 
-# DOME technical architecture
-An overview of the technical architecture of DOME
+The design of a National Blockchain Network focused on the real economy, inclusivity, accessibility and regulatory compliance.
 
-The documentation is available at: [DOME technical architecture](https://dome-marketplace.github.io/architecture)
+The documentation is available at: [EvidenceLedger](https://evidenceledger.netlify.app)
